@@ -102,3 +102,8 @@ ENV/
 
 # notebook checkpoints
 .ipynb_checkpoints/
+
+# model and log files
+logs/
+MNIST_data/
+model/
